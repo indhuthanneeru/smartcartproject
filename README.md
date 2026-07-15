@@ -65,6 +65,9 @@ major_project/
 6. Payment is verified using bank details.
 7. Inventory is updated automatically.
 
+## Project Output
+<img width="600" height="600" alt="rfid mp1" src="https://github.com/user-attachments/assets/6e265964-0880-4474-8c36-4114ba729642" />
+
 ## 📁 Database Files
 
 ### `stock.txt`
