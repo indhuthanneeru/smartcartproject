@@ -66,7 +66,11 @@ major_project/
 7. Inventory is updated automatically.
 
 ## Project Output
+
 <img width="600" height="600" alt="rfid mp1" src="https://github.com/user-attachments/assets/6e265964-0880-4474-8c36-4114ba729642" />
+
+<img width="600" height="600" alt="rfid mp3" src="https://github.com/user-attachments/assets/f8ff8d52-ef1c-4e0c-a82c-d56814549566" />
+
 
 ## 📁 Database Files
 
