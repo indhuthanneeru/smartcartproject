@@ -1,0 +1,12 @@
+rfid_reader.o: ..\cpp\ARM_G7\MAJOR_PROJECT\rfid_reader.c
+rfid_reader.o: ..\cpp\ARM_G7\MAJOR_PROJECT\rfid_reader.h
+rfid_reader.o: C:\KeilARM\ARM\INC\Philips\lpc21xx.h
+rfid_reader.o: C:\KeilARM\ARM\RV31\INC\string.h
+rfid_reader.o: ..\cpp\ARM_G7\MAJOR_PROJECT\interrupts.h
+rfid_reader.o: ..\cpp\ARM_G7\MAJOR_PROJECT\keypad.h
+rfid_reader.o: ..\cpp\ARM_G7\MAJOR_PROJECT\uart0.h
+rfid_reader.o: ..\cpp\ARM_G7\MAJOR_PROJECT\uart1.h
+rfid_reader.o: ..\cpp\ARM_G7\MAJOR_PROJECT\lcd.h
+rfid_reader.o: ..\cpp\ARM_G7\MAJOR_PROJECT\delay.h
+rfid_reader.o: C:\KeilARM\ARM\RV31\INC\stdlib.h
+rfid_reader.o: C:\KeilARM\ARM\RV31\INC\stdio.h
